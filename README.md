@@ -1,5 +1,4 @@
-LUIS IBARGUEN
-ANDRES VELEZ
+
 
 # Parcial Python electiva
 # Project2
